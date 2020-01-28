@@ -1,0 +1,74 @@
+[
+	{
+	"name": "Todo-list",
+	"fff": "fff"/*,
+	"image": "preview/todo-app_preview.jpg",
+	"gif": "images/task-ask.gif",
+	"description": "Simple Todo-list for everyday tasks. Allows user to add, edit and delete tasks, set their priority and filter them by category",
+	"hashtags": ["#react.js", "javascript"], */
+	}	
+	/*,
+	{
+	"name": "Pomodoro timer",
+	"image": "preview/pomodoro_preview.jpg",
+	"gif": "images/pomodoro-app.gif",	
+	"description": "Pomodoro timer for time management. User can customize work and rest duration",
+	"hashtags" : ["#react.js", "javascript"], 
+	},
+	{
+	"name": "Weather App",
+	"image": "preview/weather-app_preview.jpg",
+	"gif": "images/weather-app.gif",	
+	"description": "Basic weather application. Uses API, provided by openweather.org. Includes 5-day forecast, current temperature, humidity and wind speed",
+	"hashtags" : ["#react.js", "javascript", "API"], 
+	},
+	{
+	"name": "Movierise app",
+	"image": "preview/movie-app_preview.jpg",
+	"gif": "images/movie-app.gif",	
+	"description": "This app uses API provided by openmoviedb.org Includes various movies in different categories. ",
+	"hashtags" : ["#react.js", "javascript", "API"], 
+	},
+	{
+	"name": "Repair and Refurbishment",
+	"image": "preview/bino_preview.jpg",
+	"gif": "images/bino.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "css", "jquery", "javascript"], 
+	},
+	{
+	"name": "Emotions",
+	"image": "preview/emotions_preview.jpg",
+	"gif": "images/emotions.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "css", "jquery", "javascript"], 
+	},
+	{
+	"name": "Incubator",
+	"image": "preview/incubator_preview.jpg",
+	"gif": "images/incubator.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "css", "jquery", "javascript"], 
+	},
+	{
+	"name": "Mercedes",
+	"image": "preview/mercedes_preview.jpg",
+	"gif": "images/mercedes.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "css", "jquery", "javascript"], 
+	},
+	{
+	"name": "Construction",
+	"image": "preview/construction_preview.jpg",
+	"gif": "images/construction.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "css", "jquery", "javascript"], 
+	},
+	{
+	"name": "Brandi",
+	"image": "preview/brandi_preview.jpg",
+	"gif": "images/brandi.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "css", "jquery", "javascript"], 
+	}	*/							
+]

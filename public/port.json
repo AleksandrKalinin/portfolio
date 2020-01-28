@@ -1,0 +1,90 @@
+[
+	{
+	"name": "Book reader app",
+	"image": "preview/book-app_preview.png",
+	"gif": "images/book-reader.gif",	
+	"description": "Responsive book reading  single-page application made with React.js. Includes a variety of authors and books of different genres. ",
+	"hashtags" : ["#react.js", "#javascript"],
+	"link": "https://e-reader-app.herokuapp.com/"
+	},
+	{
+	"name": "Task manager",
+	"image": "preview/task-app_preview.jpg",
+	"gif": "images/todo-app.gif",
+	"description": "Simple Todo-list for everyday tasks. Allows user to add, edit and delete tasks, set their priority and filter them by category",
+	"hashtags": ["#react.js", "#javascript"],
+	"link": "https://todo-manager-application.herokuapp.com/"
+	},
+	{
+	"name": "Pomodoro timer",
+	"image": "preview/pomodoro-app_preview.jpg",
+	"gif": "images/pomodoro-app.gif",	
+	"description": "Pomodoro timer for time management. User can customize work and rest duration",
+	"hashtags" : ["#react.js", "#javascript"],
+	"link": "https://pomodoro-helper-app.herokuapp.com/" 
+	},
+	{
+	"name": "Weather App",
+	"image": "preview/weather-app_preview.jpg",
+	"gif": "images/weather-app.gif",	
+	"description": "Basic weather application. Uses API, provided by openweather.org. Includes 5-day forecast, current temperature, humidity and wind speed",
+	"hashtags" : ["#react.js", "#javascript"],
+	"link": "https://weather-monitoring-app.herokuapp.com/"  
+	},
+	{
+	"name": "Movierise app",
+	"image": "preview/movie-app_preview.jpg",
+	"gif": "images/movie-app.gif",	
+	"description": "Single page application mage with React library. App uses API provided by openmoviedb.org. It includes information about various movies in different categories. ",
+	"hashtags" : ["#react.js", "#javascript"],
+	"link": "https://movie-rise-app.herokuapp.com/" 
+	},
+	{
+	"name": "Repair template",
+	"image": "preview/bino_preview.jpg",
+	"gif": "images/bino.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "#css", "#jquery", "#javascript"],
+	"link": "https://aleksandrkalinin.github.io/Bino/" 
+	},
+	{
+	"name": "Emotions",
+	"image": "preview/emotions_preview.jpg",
+	"gif": "images/emotions.gif",	
+	"description": "Responsive landing page template.",
+	"hashtags" : ["#html", "#css", "#jquery", "#javascript"],
+	"link": "https://aleksandrkalinin.github.io/Emotions/" 
+	},
+	{
+	"name": "Incubator",
+	"image": "preview/incubator_preview.jpg",
+	"gif": "images/incubator.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "#css", "#jquery", "#javascript"],
+	"link": "https://aleksandrkalinin.github.io/Incubator/"  
+	},
+	{
+	"name": "Mercedes",
+	"image": "preview/mercedes_preview.jpg",
+	"gif": "images/mercedes.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "#css", "#jquery", "#javascript"],
+	"link": "https://aleksandrkalinin.github.io/Mercedes/" 
+	},
+	{
+	"name": "Construction",
+	"image": "preview/construction_preview.jpg",
+	"gif": "images/construction.gif",	
+	"description": "Repair responsive landing page template.",
+	"hashtags" : ["#html", "#css", "#jquery", "#javascript"],
+	"link": "https://aleksandrkalinin.github.io/Construction/" 
+	},
+	{
+	"name": "Brandi",
+	"image": "preview/brandi_preview.jpg",
+	"gif": "images/brandi.gif",	
+	"description": "Responsive landing page template.",
+	"hashtags" : ["#html", "#css", "#jquery", "#javascript"],
+	"link": "https://aleksandrkalinin.github.io/Brandi/"
+	}
+]

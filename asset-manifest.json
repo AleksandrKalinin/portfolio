@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//AleksandrKalinin.github.io/portfolio/static/css/main.f2cecf5d.chunk.css",
-    "main.js": "//AleksandrKalinin.github.io/portfolio/static/js/main.23bec9a7.chunk.js",
-    "main.js.map": "//AleksandrKalinin.github.io/portfolio/static/js/main.23bec9a7.chunk.js.map",
+    "main.css": "//AleksandrKalinin.github.io/portfolio/static/css/main.f65cb0f7.chunk.css",
+    "main.js": "//AleksandrKalinin.github.io/portfolio/static/js/main.9f0765fb.chunk.js",
+    "main.js.map": "//AleksandrKalinin.github.io/portfolio/static/js/main.9f0765fb.chunk.js.map",
     "runtime-main.js": "//AleksandrKalinin.github.io/portfolio/static/js/runtime-main.61a2c91b.js",
     "runtime-main.js.map": "//AleksandrKalinin.github.io/portfolio/static/js/runtime-main.61a2c91b.js.map",
     "static/css/2.507367c6.chunk.css": "//AleksandrKalinin.github.io/portfolio/static/css/2.507367c6.chunk.css",
     "static/js/2.90c243be.chunk.js": "//AleksandrKalinin.github.io/portfolio/static/js/2.90c243be.chunk.js",
     "static/js/2.90c243be.chunk.js.map": "//AleksandrKalinin.github.io/portfolio/static/js/2.90c243be.chunk.js.map",
     "index.html": "//AleksandrKalinin.github.io/portfolio/index.html",
-    "precache-manifest.1484d6e3afb504e737e1922d0171d0d6.js": "//AleksandrKalinin.github.io/portfolio/precache-manifest.1484d6e3afb504e737e1922d0171d0d6.js",
+    "precache-manifest.bc73424a468c90cf51f5c59ca52569ee.js": "//AleksandrKalinin.github.io/portfolio/precache-manifest.bc73424a468c90cf51f5c59ca52569ee.js",
     "service-worker.js": "//AleksandrKalinin.github.io/portfolio/service-worker.js",
     "static/css/2.507367c6.chunk.css.map": "//AleksandrKalinin.github.io/portfolio/static/css/2.507367c6.chunk.css.map",
-    "static/css/main.f2cecf5d.chunk.css.map": "//AleksandrKalinin.github.io/portfolio/static/css/main.f2cecf5d.chunk.css.map",
+    "static/css/main.f65cb0f7.chunk.css.map": "//AleksandrKalinin.github.io/portfolio/static/css/main.f65cb0f7.chunk.css.map",
     "static/js/2.90c243be.chunk.js.LICENSE": "//AleksandrKalinin.github.io/portfolio/static/js/2.90c243be.chunk.js.LICENSE",
     "static/media/all.css": "//AleksandrKalinin.github.io/portfolio/static/media/fa-solid-900.c2801fb4.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.61a2c91b.js",
     "static/css/2.507367c6.chunk.css",
     "static/js/2.90c243be.chunk.js",
-    "static/css/main.f2cecf5d.chunk.css",
-    "static/js/main.23bec9a7.chunk.js"
+    "static/css/main.f65cb0f7.chunk.css",
+    "static/js/main.9f0765fb.chunk.js"
   ]
 }

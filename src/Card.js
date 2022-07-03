@@ -7,22 +7,21 @@ class Card extends Component {
       this.state={
         item: 0
       }
-      this.imageRef = React.createRef(); 
     }
 
 
   render(){
     return (
-        <div className="card" onMouseOver={e => (e.currentTarget.children[1].children[0].src = this.props.gif)}
-        					  onMouseOut={e => (e.currentTarget.children[1].children[0].src = this.props.image)}
-          >
+        <div className="card" >
+          {/*
           <div className="card-icon">
             <div className="card-icon-wrapper">
               <i className="fa fa-search-plus"></i>        
             </div>
           </div>
+          */}
           <div className="card-image">
-            <img src={this.props.image} alt="" ref={this.imageRef} />
+            <img src={this.props.image} alt=""/>
           </div>
           <div className="card-description">
             <div className="card-description__inner">
@@ -35,7 +34,7 @@ class Card extends Component {
                 )}
               </div>             
             </div>
-            <a href={this.props.link} target="_blank" className="card-button main-button">Learn more</a>
+            <a href={this.props.link} target="_blank" className="card-button main-button">Open</a>
           </div>
         </div>
     );    

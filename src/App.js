@@ -47,9 +47,7 @@ class App extends Component {
 
   render(){
     return (
-      <Fragment>      
-      <header>
-      </header>
+      <Fragment>     
       <div className="section-intro">
       	{this.state.originalItems.length ?
 	        <Carousel autoPlay={true} 
@@ -70,7 +68,7 @@ class App extends Component {
 			                <div className="carousel-description">
 			                	<h2>{item.name}</h2>
 			                	<p>{item.description}</p>
-			                	<a href={item.link} target="_blank" className="main-button">Learn more</a>
+			                	<a href={item.link} target="_blank" className="main-button">Open</a>
 			                </div>
 		                </div>
 		            </div>
@@ -92,6 +90,7 @@ class App extends Component {
         	<p className="portfolio-selected">{this.state.items.length} out of {this.state.originalItems.length} items selected</p>
          : null}
       </div>
+
       <div className="card-section">
         {this.state.items.map((item,index) => 
          <LazyLoad once height={200} key={index} offset={-100}>	 

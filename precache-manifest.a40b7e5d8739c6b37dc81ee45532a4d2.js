@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ca882d6c07dfd5f5e2b2082ff9dfd93",
+    "revision": "b2798af3a277874f1bac30ebc1a6de16",
     "url": "//AleksandrKalinin.github.io/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//AleksandrKalinin.github.io/portfolio/static/css/2.507367c6.chunk.css"
   },
   {
-    "revision": "3c606376e650fcec0f30",
+    "revision": "46a53459e92be9c2352e",
     "url": "//AleksandrKalinin.github.io/portfolio/static/css/main.37a84164.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//AleksandrKalinin.github.io/portfolio/static/js/2.90c243be.chunk.js.LICENSE"
   },
   {
-    "revision": "3c606376e650fcec0f30",
-    "url": "//AleksandrKalinin.github.io/portfolio/static/js/main.1166304f.chunk.js"
+    "revision": "46a53459e92be9c2352e",
+    "url": "//AleksandrKalinin.github.io/portfolio/static/js/main.245e9445.chunk.js"
   },
   {
     "revision": "d75ce6fba15e36fec375",

@@ -2,7 +2,7 @@
   {
     "name":"English language learning app",
     "image":"preview/vocabulary_preview.png",
-    "description":"English language learning app. Includes vocabulary, various text and audio materials, exercises and tests.",
+    "description":"English language learning platform. Includes vocabulary, various text and audio materials, exercises and tests.",
     "hashtags":[
       "#react.js",
       "#javascript"
@@ -29,6 +29,18 @@
     ],
     "link":"https://e-reader-app.herokuapp.com/"
   },
+  {
+    "name":"CoffeeStyle landing page template",
+    "image":"preview/coffeestyle_preview.png",
+    "description":"Responsive landing page template.",
+    "hashtags":[
+      "#html",
+      "#css",
+      "#jquery",
+      "#javascript"
+    ],
+    "link":"https://aleksandrkalinin.github.io/CoffeeStyle/"
+  },  
   {
     "name":"Task manager",
     "image":"preview/task-app_preview.jpg",
@@ -70,7 +82,7 @@
     "link":"https://movie-rise-app.herokuapp.com/"
   },
   {
-    "name":"Repair template",
+    "name":"Repair landing page template",
     "image":"preview/bino_preview.jpg",
     "description":"Responsive landing page template.",
     "hashtags":[
@@ -82,7 +94,7 @@
     "link":"https://aleksandrkalinin.github.io/Bino/"
   },
   {
-    "name":"Emotions template",
+    "name":"Emotions landing page template",
     "image":"preview/emotions_preview.jpg",
     "description":"Responsive landing page template.",
     "hashtags":[
@@ -94,7 +106,7 @@
     "link":"https://aleksandrkalinin.github.io/Emotions/"
   },
   {
-    "name":"Incubator  template",
+    "name":"Incubator landing page template",
     "image":"preview/incubator_preview.jpg",
     "description":"Responsive landing page template.",
     "hashtags":[
@@ -106,7 +118,7 @@
     "link":"https://aleksandrkalinin.github.io/Incubator/"
   },
   {
-    "name":"Bouncy  template",
+    "name":"Bouncy landing page template",
     "image":"preview/bouncy_preview.png",
     "description":"Responsive landing page template.",
     "hashtags":[
@@ -118,7 +130,7 @@
     "link":"https://aleksandrkalinin.github.io/Bouncy/"
   },
   {
-    "name":"Mercedes  template",
+    "name":"Mercedes landing page template",
     "image":"preview/mercedes_preview.jpg",
     "description":"Responsive landing page template.",
     "hashtags":[
@@ -130,9 +142,9 @@
     "link":"https://aleksandrkalinin.github.io/Mercedes/"
   },
   {
-    "name":"Construction template",
+    "name":"Construction company template",
     "image":"preview/construction_preview.jpg",
-    "description":"Responsive landing page template.",
+    "description":"Responsive multipage website template.",
     "hashtags":[
       "#html",
       "#css",

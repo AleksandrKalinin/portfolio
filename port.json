@@ -140,29 +140,5 @@
       "#javascript"
     ],
     "link":"https://aleksandrkalinin.github.io/Mercedes/"
-  },
-  {
-    "name":"Construction company template",
-    "image":"preview/construction_preview.jpg",
-    "description":"Responsive multipage website template.",
-    "hashtags":[
-      "#html",
-      "#css",
-      "#jquery",
-      "#javascript"
-    ],
-    "link":"https://aleksandrkalinin.github.io/Construction/"
-  },
-  {
-    "name":"Brandi  template",
-    "image":"preview/brandi_preview.jpg",
-    "description":"Responsive landing page template.",
-    "hashtags":[
-      "#html",
-      "#css",
-      "#jquery",
-      "#javascript"
-    ],
-    "link":"https://aleksandrkalinin.github.io/Brandi/"
   }
 ]

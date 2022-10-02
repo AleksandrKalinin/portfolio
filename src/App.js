@@ -31,17 +31,14 @@ class App extends Component {
     setValue = (e) =>{
     	let items = this.state.originalItems.slice();
     	let curName = e.target.getAttribute('dataname');
-    	let curValue = e.target.getAttribute('datavalue');
+    	let active = e.target.getAttribute('datavalue');
     	let newItems = [];
-    	if (curValue !== '#all') {
-    		newItems = items.filter(item => item.hashtags.includes(curValue));
-    	}
-    	else{
-    		newItems = items;
+    	if (active !== '#all') {
+    		items = items.filter(item => item.hashtags.includes(active));
     	}
     	this.setState({
-    		items: newItems,
-    		active: curName
+    		items,
+    		active
     	})
     }
 

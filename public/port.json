@@ -2,7 +2,7 @@
   {
     "name":"English language learning app",
     "image":"preview/vocabulary_preview.png",
-    "description":"English language learning platform. Includes vocabulary, various text and audio materials, exercises and tests.",
+    "description":"English language learning platform built with React.js and Redux. Includes vocabulary, various text and audio materials, exercises and tests.",
     "hashtags":[
       "#react.js",
       "#javascript"
@@ -22,7 +22,7 @@
   {
     "name":"Book reader app",
     "image":"preview/book-app_preview.png",
-    "description":"Responsive book reading  single-page application made with React.js.",
+    "description":"Responsive book reading  single-page application made with React.js and Redux.",
     "hashtags":[
       "#react.js",
       "#javascript"
@@ -32,7 +32,7 @@
   {
     "name":"Weather monitoring app",
     "image":"preview/weather-ts_preview.png",
-    "description":"Basic weather application made with React.js and Typescript. Uses API, provided by openweather.org",
+    "description":"Basic weather application made with React.js, styled-components and Typescript. Uses API, provided by openweather.org",
     "hashtags":[
       "#react.js",
       "#javascript",
@@ -63,29 +63,9 @@
     "link":"https://todo-manager-application.herokuapp.com/"
   },
   {
-    "name":"Pomodoro timer",
-    "image":"preview/pomodoro-app_preview.jpg",
-    "description":"Pomodoro timer for time management.",
-    "hashtags":[
-      "#react.js",
-      "#javascript"
-    ],
-    "link":"https://pomodoro-helper-app.herokuapp.com/"
-  },
-  {
-    "name":"Movierise app",
-    "image":"preview/movie-app_preview.jpg",
-    "description":"Single page application mage with React.js. App uses API provided by openmoviedb.org.",
-    "hashtags":[
-      "#react.js",
-      "#javascript"
-    ],
-    "link":"https://movie-rise-app.herokuapp.com/"
-  },
-  {
-    "name":"Repair landing page template",
+    "name":"Home repair company landing page template",
     "image":"preview/bino_preview.jpg",
-    "description":"Responsive landing page template.",
+    "description":"Responsive landing page template for home repair company.",
     "hashtags":[
       "#html",
       "#css",
@@ -95,9 +75,9 @@
     "link":"https://aleksandrkalinin.github.io/Bino/"
   },
   {
-    "name":"Emotions landing page template",
+    "name":"Responsive landing page template",
     "image":"preview/emotions_preview.jpg",
-    "description":"Responsive landing page template.",
+    "description":"Responsive landing page template for small business / startup.",
     "hashtags":[
       "#html",
       "#css",
@@ -107,9 +87,9 @@
     "link":"https://aleksandrkalinin.github.io/Emotions/"
   },
   {
-    "name":"Incubator landing page template",
+    "name":"Responsive landing page template",
     "image":"preview/incubator_preview.jpg",
-    "description":"Responsive landing page template.",
+    "description":"Responsive landing page template for small business / startup.",
     "hashtags":[
       "#html",
       "#css",
@@ -119,9 +99,9 @@
     "link":"https://aleksandrkalinin.github.io/Incubator/"
   },
   {
-    "name":"Bouncy landing page template",
+    "name":"Responsive landing page template",
     "image":"preview/bouncy_preview.png",
-    "description":"Responsive landing page template.",
+    "description":"Responsive landing page template for small business / startup.",
     "hashtags":[
       "#html",
       "#css",
@@ -131,9 +111,9 @@
     "link":"https://aleksandrkalinin.github.io/Bouncy/"
   },
   {
-    "name":"Mercedes landing page template",
+    "name":"Responsive landing page template",
     "image":"preview/mercedes_preview.jpg",
-    "description":"Responsive landing page template.",
+    "description":"Responsive landing page template for car dealership.",
     "hashtags":[
       "#html",
       "#css",
@@ -141,5 +121,16 @@
       "#javascript"
     ],
     "link":"https://aleksandrkalinin.github.io/Mercedes/"
+  },
+  {
+    "name":"Pomodoro timer",
+    "image":"preview/pomodoro-app_preview.jpg",
+    "description":"Pomodoro timer for time management.",
+    "hashtags":[
+      "#react.js",
+      "#javascript"
+    ],
+    "link":"https://pomodoro-helper-app.herokuapp.com/"
   }
+
 ]

@@ -17,7 +17,7 @@
       "#react.js",
       "#javascript"
     ],
-    "link":"https://camera-commerce-app.herokuapp.com/"
+    "link":"https://e-commerce-2b02bc.netlify.app/"
   },
   {
     "name":"Book reader app",
@@ -29,6 +29,17 @@
     ],
     "link":"https://e-reader-app.herokuapp.com/"
   },
+  {
+    "name":"Weather monitoring app",
+    "image":"preview/weather-ts_preview.png",
+    "description":"Basic weather application made with React.js and Typescript. Uses API, provided by openweather.org",
+    "hashtags":[
+      "#react.js",
+      "#javascript",
+      "#typescript"
+    ],
+    "link":"https://aleksandrkalinin.github.io/weather-ts/"
+  },  
   {
     "name":"CoffeeStyle landing page template",
     "image":"preview/coffeestyle_preview.png",
@@ -60,16 +71,6 @@
       "#javascript"
     ],
     "link":"https://pomodoro-helper-app.herokuapp.com/"
-  },
-  {
-    "name":"Weather App",
-    "image":"preview/weather-app_preview.jpg",
-    "description":"Basic weather application. Uses API, provided by openweather.org",
-    "hashtags":[
-      "#react.js",
-      "#javascript"
-    ],
-    "link":"https://aleksandrkalinin.github.io/weather-monitoring/"
   },
   {
     "name":"Movierise app",
